@@ -1,0 +1,4 @@
+aioredis
+Flask
+mysql-connector-python
+cryptography
